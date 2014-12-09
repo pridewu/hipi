@@ -12,11 +12,13 @@ class ResourceController extends BaseAuthController {
 	 * 查看操作
 	 */
 	public function indexAct() {
-        $proConfig = get_cache('ProConfig');		
+//        $proConfig = get_cache('ProConfig');
+		$proConfig = get_pro_config_content('proConfig');
 		if(!IS_POST) {
 			$this->assign(array(			
 				'buttonStyle' => $this->buttonAuthStyle(array('add','edit','del','export')),
 				'rpHtml' => $this->getComboBox($proConfig['content']['rp'],'where[rpId]',array('width'=>100)),
+//				'rpHtml' => $this->getComboBox($proConfig['rp'],'rpId',array('width'=>100)),
 				'statusHtml'=> $this->getComboBox($this->statusNames, 'where[status]',array('selVal'=>-1,'width'=>60)),	
 			));
 			$this->display();

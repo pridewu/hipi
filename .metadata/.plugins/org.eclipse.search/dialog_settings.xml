@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="">
-		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
 		<item value="1000" key="org.eclipse.dltk.search.resultpage.limit"/>
 		<item value="TRUE" key="org.eclipse.dltk.search.resultpage.limit_enabled"/>
 	</section>
@@ -11,8 +10,8 @@
 	<section name="DialogBounds_SearchDialog">
 		<item value="590" key="DIALOG_WIDTH"/>
 		<item value="334" key="DIALOG_Y_ORIGIN"/>
-		<item value="433" key="DIALOG_HEIGHT"/>
 		<item value="499" key="DIALOG_X_ORIGIN"/>
+		<item value="433" key="DIALOG_HEIGHT"/>
 		<item value="1|宋体|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|宋体" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="Search">
@@ -43,9 +42,6 @@
 		<item value="false" key="REG_EX_SEARCH"/>
 		<item value="false" key="SEARCH_DERIVED"/>
 		<item value="7" key="HISTORY_SIZE"/>
-		<section name="EXTENSIONS">
-			<item value="*.html" key="0"/>
-		</section>
 		<section name="HISTORY2">
 			<item value="false" key="isRegExSearch"/>
 			<item value="嗨皮课堂" key="textPattern"/>
@@ -56,6 +52,9 @@
 			</list>
 			<list key="workingSets">
 			</list>
+		</section>
+		<section name="EXTENSIONS">
+			<item value="*.html" key="0"/>
 		</section>
 		<section name="HISTORY3">
 			<item value="false" key="isRegExSearch"/>

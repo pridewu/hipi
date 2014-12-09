@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="38" version="2.0">
+<workbench progressCount="48" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1046" x="266" y="257">
 <fastViewData fastViewLocation="1024"/>
@@ -13,7 +13,7 @@
 <coolItem id="com.zend.php.datatools.ui.CreateNewConnectionActionSet" itemType="typeToolBarContribution" x="39" y="22"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="155" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="75" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="85" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="39" y="22"/>
 <coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="39" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -39,66 +39,35 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.php.editor" name="CourseController.class.php" partName="CourseController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/CourseController.class.php" title="CourseController.class.php" tooltip="Education_dev_platform/Application/System/Controller/CourseController.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/CourseController.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="455" selectionTopPixel="204"/>
+<editor activePart="true" focus="true" id="org.eclipse.php.editor" name="ResourceController.class.php" partName="ResourceController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/ResourceController.class.php" title="ResourceController.class.php" tooltip="Education_dev_platform/Application/System/Controller/ResourceController.class.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/ResourceController.class.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="421" selectionTopPixel="204"/>
 </editor>
 <editor id="org.eclipse.php.editor" name="common.php" partName="common.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/Common/Common/common.php" title="common.php" tooltip="Education_dev_platform/Application/Common/Common/common.php" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/Common/Common/common.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="86" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="146" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.php.editor" name="StageModel.class.php" partName="StageModel.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/Common/Model/StageModel.class.php" title="StageModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/StageModel.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/Common/Model/StageModel.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="989" selectionTopPixel="178"/>
-</editor>
-<editor id="org.eclipse.php.editor" name="function.php" partName="function.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/Common/Common/function.php" title="function.php" tooltip="Education_dev_platform/Application/Common/Common/function.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/Common/Common/function.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="320" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.php.editor" name="ProConfigModel.class.php" partName="ProConfigModel.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/Common/Model/ProConfigModel.class.php" title="ProConfigModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/ProConfigModel.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/Common/Model/ProConfigModel.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="817" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.php.editor" name="CacheController.class.php" partName="CacheController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/CacheController.class.php" title="CacheController.class.php" tooltip="Education_dev_platform/Application/System/Controller/CacheController.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/CacheController.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="414" selectionTopPixel="195"/>
-</editor>
-<editor id="org.eclipse.php.editor" name="ProConfigController.class.php" partName="ProConfigController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/ProConfigController.class.php" title="ProConfigController.class.php" tooltip="Education_dev_platform/Application/System/Controller/ProConfigController.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/ProConfigController.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1832" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.php.editor" name="BaseAuthController.class.php" partName="BaseAuthController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/BaseAuthController.class.php" title="BaseAuthController.class.php" tooltip="Education_dev_platform/Application/System/Controller/BaseAuthController.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/BaseAuthController.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="138" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.php.editor" name="BaseLoginController.class.php" partName="BaseLoginController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/BaseLoginController.class.php" title="BaseLoginController.class.php" tooltip="Education_dev_platform/Application/System/Controller/BaseLoginController.class.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/BaseLoginController.class.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="102" selectionTopPixel="0"/>
+<editor id="org.eclipse.php.editor" name="CourseController.class.php" partName="CourseController.class.php" path="E:/coding/zendstudio/Education_dev_platform/branches/v1/Application/System/Controller/CourseController.class.php" title="CourseController.class.php" tooltip="Education_dev_platform/Application/System/Controller/CourseController.class.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Education_dev_platform/Application/System/Controller/CourseController.class.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="22" selectionOffset="624" selectionTopPixel="306"/>
 </editor>
 </editors>
 <views>
 <view id="org.eclipse.dltk.ui.TypeHierarchy" partName="Type Hierarchy"/>
 <view id="org.eclipse.search.ui.views.SearchView" partName="Search">
 <viewState isPinned="false">
-<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="2" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+<view IMemento.internal.id="org.eclipse.dltk.ui.DLTKSearchResultPage" org.eclipse.dltk.search.resultpage.grouping="3" org.eclipse.dltk.search.resultpage.limit="1000" org.eclipse.dltk.search.resultpage.limit_enabled="TRUE" org.eclipse.dltk.search.resultpage.sorting="1" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2"/>
 <view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
-<view IMemento.internal.id="org.eclipse.dltk.ui.DLTKSearchResultPage" org.eclipse.dltk.search.resultpage.grouping="3" org.eclipse.dltk.search.resultpage.limit="1000" org.eclipse.dltk.search.resultpage.limit_enabled="TRUE" org.eclipse.dltk.search.resultpage.sorting="1" org.eclipse.search.lastActivation="3" org.eclipse.search.resultpage.layout="2"/>
 </viewState>
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (100 of 2027 items)"/>
+<category IMemento.internal.id="Warnings (100 of 2076 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -139,7 +108,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.php.ui.explorer" activePerspective="org.eclipse.php.perspective">
+<perspectives activePart="org.eclipse.php.editor" activePerspective="org.eclipse.php.perspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.php.internal.ui.PHPPerspectiveFactory" id="org.eclipse.php.perspective" label="PHP"/>
 <alwaysOnActionSet id="com.zend.php.ui.helpActionSet"/>
@@ -213,11 +182,11 @@
 <perspective_action id="org.eclipse.atf.mozilla.ide.ui.perspective"/>
 <perspective_action id="org.zend.php.framework.perspective"/>
 <hide_toolbar_item_id id="com.zend.php.zendserver.ui.showEventList"/>
-<hide_toolbar_item_id id="com.zend.php.profile.ui.actions.ProfileURL"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="com.zend.php.profile.ui.actions.ProfileURL"/>
 <hide_toolbar_item_id id="com.zend.php.ui.commands.EncodeProjectAction"/>
-<hide_toolbar_item_id id="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
 <view id="org.eclipse.php.ui.explorer"/>
 <view id="org.eclipse.dltk.ui.TypeHierarchy"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
@@ -282,164 +251,164 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Controller/CourseController.class.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Controller/CacheController.class.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/Common/Common/common.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/Common/Model/StageModel.class.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/Common/Common/function.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/Common/Model/ProConfigModel.class.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Conf/config.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/Common/Model/CourseModel.class.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/Education_dev_platform/Application/System/View/v1/Course/edit.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Controller/NoticeController.class.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/Education_dev_platform/Application/System/View/v1/Notice/index.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/Education_dev_platform/Application/System/View/v1/Course/index.html"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Controller/ProConfigController.class.php"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/Common/Model/BaseModel.class.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Controller/CourseController.class.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/Education_dev_platform/Application/System/Controller/ResourceController.class.php"/>
 </editors>
-<item historyLabel="CacheController.class.php" index="1">
-<position info="not_deleted" x="674" y="11"/>
+<item historyLabel="NoticeController.class.php" index="3">
+<position info="not_deleted" x="500" y="0"/>
 </item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="5235" y="0"/>
-</item>
-<item historyLabel="CacheController.class.php" index="1">
-<position info="not_deleted" x="674" y="11"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="5235" y="0"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="2608" y="0"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="4942" y="8"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
+<item historyLabel="index.html" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="456" y="0"/>
+<item historyLabel="NoticeController.class.php" index="3">
+<position info="not_deleted" x="500" y="0"/>
 </item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="567" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="186" y="0"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="821" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="186" y="0"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="989" y="0"/>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="874" y="0"/>
 </item>
 <item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="636" y="0"/>
-</item>
-<item historyLabel="function.php" index="4">
-<position info="not_deleted" x="344" y="0"/>
-</item>
-<item historyLabel="ProConfigModel.class.php" index="5">
-<position info="not_deleted" x="725" y="0"/>
-</item>
-<item historyLabel="function.php" index="4">
-<position info="not_deleted" x="302" y="0"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="638" y="0"/>
-</item>
-<item historyLabel="function.php" index="4">
-<position info="not_deleted" x="303" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="CacheController.class.php" index="1">
-<position info="not_deleted" x="414" y="0"/>
-</item>
-<item historyLabel="config.php" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="CacheController.class.php" index="1">
-<position info="not_deleted" x="414" y="0"/>
-</item>
-<item historyLabel="ProConfigModel.class.php" index="5">
-<position info="not_deleted" x="725" y="0"/>
-</item>
-<item historyLabel="function.php" index="4">
-<position info="not_deleted" x="303" y="0"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="989" y="0"/>
-</item>
-<item historyLabel="common.php" index="2">
-<position info="not_deleted" x="86" y="9"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="1936" y="0"/>
-</item>
-<item historyLabel="StageModel.class.php" index="3">
-<position info="not_deleted" x="989" y="0"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="1936" y="0"/>
-</item>
-<item historyLabel="ProConfigController.class.php" index="7">
-<position info="not_deleted" x="117" y="0"/>
-</item>
-<item historyLabel="ProConfigModel.class.php" index="5">
-<position info="not_deleted" x="111" y="0"/>
-</item>
-<item historyLabel="BaseModel.class.php" index="8">
-<position info="not_deleted" x="73" y="9"/>
-</item>
-<item historyLabel="ProConfigModel.class.php" index="5">
-<position info="not_deleted" x="817" y="0"/>
-</item>
-<item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="635" y="0"/>
-</item>
-<item historyLabel="function.php" index="4">
 <position/>
 </item>
-<item historyLabel="ProConfigController.class.php" index="7">
-<position info="not_deleted" x="1832" y="0"/>
-</item>
-<item historyLabel="function.php" index="4">
-<position info="not_deleted" x="320" y="0"/>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="607" y="0"/>
+<position/>
 </item>
-<item historyLabel="ProConfigController.class.php" index="7">
-<position info="not_deleted" x="1832" y="0"/>
+<item historyLabel="CourseModel.class.php" index="1">
+<position/>
 </item>
-<item active="true" historyLabel="CourseController.class.php" index="0">
-<position info="not_deleted" x="607" y="0"/>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="752" y="0"/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="752" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="874" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="461" y="0"/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="752" y="0"/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3514" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3514" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3005" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="4276" y="0"/>
+</item>
+<item historyLabel="ProConfigController.class.php" index="6">
+<position info="not_deleted" x="1609" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="752" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="1823" y="0"/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position info="not_deleted" x="1110" y="15"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="1868" y="0"/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position info="not_deleted" x="2112" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="1784" y="0"/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3262" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="1784" y="0"/>
+</item>
+<item historyLabel="CourseModel.class.php" index="1">
+<position info="not_deleted" x="2112" y="0"/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3262" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="4354" y="0"/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3262" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="4170" y="0"/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3262" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="4441" y="0"/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3373" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="0">
+<position info="not_deleted" x="4403" y="0"/>
+</item>
+<item historyLabel="edit.html" index="2">
+<position info="not_deleted" x="3373" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="7">
+<position info="not_deleted" x="4397" y="0"/>
+</item>
+<item historyLabel="ResourceController.class.php" index="8">
+<position info="not_deleted" x="221" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="7">
+<position info="not_deleted" x="624" y="22"/>
+</item>
+<item historyLabel="ResourceController.class.php" index="8">
+<position info="not_deleted" x="421" y="0"/>
+</item>
+<item historyLabel="CourseController.class.php" index="7">
+<position info="not_deleted" x="624" y="22"/>
+</item>
+<item active="true" historyLabel="ResourceController.class.php" index="8">
+<position info="not_deleted" x="421" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -460,50 +429,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="BaseModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/BaseModel.class.php">
-<persistable path="/Education_dev_platform/Application/Common/Model/BaseModel.class.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="BaseLoginController.class.php" tooltip="Education_dev_platform/Application/System/Controller/BaseLoginController.class.php">
-<persistable path="/Education_dev_platform/Application/System/Controller/BaseLoginController.class.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="BaseAuthController.class.php" tooltip="Education_dev_platform/Application/System/Controller/BaseAuthController.class.php">
-<persistable path="/Education_dev_platform/Application/System/Controller/BaseAuthController.class.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="ProConfigController.class.php" tooltip="Education_dev_platform/Application/System/Controller/ProConfigController.class.php">
-<persistable path="/Education_dev_platform/Application/System/Controller/ProConfigController.class.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="config.php" tooltip="Education_dev_platform/Application/System/Conf/config.php">
-<persistable path="/Education_dev_platform/Application/System/Conf/config.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="CacheController.class.php" tooltip="Education_dev_platform/Application/System/Controller/CacheController.class.php">
-<persistable path="/Education_dev_platform/Application/System/Controller/CacheController.class.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="ProConfigModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/ProConfigModel.class.php">
-<persistable path="/Education_dev_platform/Application/Common/Model/ProConfigModel.class.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="function.php" tooltip="Education_dev_platform/Application/Common/Common/function.php">
-<persistable path="/Education_dev_platform/Application/Common/Common/function.php"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="StageModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/StageModel.class.php">
-<persistable path="/Education_dev_platform/Application/Common/Model/StageModel.class.php"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="CourseController.class.php" tooltip="Education_dev_platform/Application/System/Controller/CourseController.class.php">
+<persistable path="/Education_dev_platform/Application/System/Controller/CourseController.class.php"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="common.php" tooltip="Education_dev_platform/Application/Common/Common/common.php">
 <persistable path="/Education_dev_platform/Application/Common/Common/common.php"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="CourseController.class.php" tooltip="Education_dev_platform/Application/System/Controller/CourseController.class.php">
-<persistable path="/Education_dev_platform/Application/System/Controller/CourseController.class.php"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="ResourceController.class.php" tooltip="Education_dev_platform/Application/System/Controller/ResourceController.class.php">
+<persistable path="/Education_dev_platform/Application/System/Controller/ResourceController.class.php"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="ChannelModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/ChannelModel.class.php">
-<persistable path="/Education_dev_platform/Application/Common/Model/ChannelModel.class.php"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="Education_dev_platform/Application/System/View/v1/Course/index.html">
+<persistable path="/Education_dev_platform/Application/System/View/v1/Course/index.html"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="TopicModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/TopicModel.class.php">
-<persistable path="/Education_dev_platform/Application/Common/Model/TopicModel.class.php"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="Education_dev_platform/Application/System/View/v1/Notice/index.html">
+<persistable path="/Education_dev_platform/Application/System/View/v1/Notice/index.html"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="NoticeModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/NoticeModel.class.php">
 <persistable path="/Education_dev_platform/Application/Common/Model/NoticeModel.class.php"/>
 </file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="edit.html" tooltip="Education_dev_platform/Application/System/View/v1/Notice/edit.html">
+<persistable path="/Education_dev_platform/Application/System/View/v1/Notice/edit.html"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="NoticeController.class.php" tooltip="Education_dev_platform/Application/System/Controller/NoticeController.class.php">
 <persistable path="/Education_dev_platform/Application/System/Controller/NoticeController.class.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="edit.html" tooltip="Education_dev_platform/Application/System/View/v1/Course/edit.html">
+<persistable path="/Education_dev_platform/Application/System/View/v1/Course/edit.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="CourseModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/CourseModel.class.php">
+<persistable path="/Education_dev_platform/Application/Common/Model/CourseModel.class.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="BaseController.class.php" tooltip="Education_dev_platform/Application/System/Controller/BaseController.class.php">
+<persistable path="/Education_dev_platform/Application/System/Controller/BaseController.class.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="config.php" tooltip="Education_dev_platform/Application/Common/Conf/config.php">
+<persistable path="/Education_dev_platform/Application/Common/Conf/config.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="BaseModel.class.php" tooltip="Education_dev_platform/Application/Common/Model/BaseModel.class.php">
+<persistable path="/Education_dev_platform/Application/Common/Model/BaseModel.class.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="p_config.php" tooltip="Education_dev_platform/Application/Common/Conf/p_config.php">
+<persistable path="/Education_dev_platform/Application/Common/Conf/p_config.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="TopicController.class.php" tooltip="Education_dev_platform/Application/System/Controller/TopicController.class.php">
+<persistable path="/Education_dev_platform/Application/System/Controller/TopicController.class.php"/>
 </file>
 </mruList>
 </workbench>
