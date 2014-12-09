@@ -1,0 +1,76 @@
+<form id="edit_form" method="post" style="padding:10px">
+<table class="editTable">
+	<tr>
+		<th>用户id</th>
+		<td>
+			<input type="hidden" id="id" name="id" value="{$role['id']}"/>
+			<input type="text" id="userId" name="userId" value="{$role['userId']}"/><em>*</em>
+		</td>
+	<tr>
+		<th>用户性别</th>
+		<td>
+			<input type="text" id="sex" name="sex" value="{$role['sex']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr>
+		<th>段龄ID</th>
+		<td>
+			<input type="text" id="stageId" name="stageId" value="{$role['stageId']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr>
+		<th>角色昵称</th>
+		<td>
+			<input type="text" id="nickName" name="nickName" value="{$role['nickName']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr>
+		<th>知识点ID</th>
+		<td>
+			<input type="text" id="topicIds" name="topicIds" value="{$role['topicIds']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr><th>关键字</th><td>
+		<input type="hidden" id="aakeys" name="keys" value="{$role['keys']}"/>
+		<input id="combobox_keys"  class="easyui-combobox" data-options="valueField:'id',textField:'name'" style="width:150px" /> (支持多选)
+	</td></tr>
+	<tr>
+		<th>图片地址</th>
+		<td>
+			<textarea name="imgUrl" id="imgUrl" cols="50" rows="3">{$role['imgUrl']}</textarea>
+			<a href="#" class="easyui-linkbutton" iconCls="icon-add" plain="true" 
+				onclick="upfileDialog(1,'{$thumb}','课程图片：{$role[name]}',1,1,'#imgUrl','\r\n')"></a>
+		</td>
+	</tr>
+	<tr>
+		<th>链接地址</th>
+		<td>
+			<input type="text" id="linkUrl" name="linkUrl" value="{$role['linkUrl']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr>
+		<th>机构</th>
+		<td>
+			<input type="text" id="organization" name="organization" value="{$role['organization']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr>
+		<th>讲师</th>
+		<td>
+			<input type="text" id="lecturer" name="lecturer" value="{$role['lecturer']}"/><em>*</em>
+		</td>
+	</tr>
+	<tr>
+		<th>课程描述</th>
+		<td>
+			<textarea name="description" id="description" cols="50" rows="3">{$role['description']}</textarea>
+		</td>
+	</tr>
+	<tr>
+		<th>排序</th>
+		<td><input type="text" id="sort" name="sort" value="{$role['sort']}"/></td>
+	</tr>
+	<tr><th>状态</th><td>{$statusHtml} <em>*</em></td></tr>
+</table>
+</form>
+

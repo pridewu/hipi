@@ -1,0 +1,12 @@
+<?php
+namespace Application\System\Controller;
+
+require_once ('Application/System/Controller/BaseAuthController.class.php');
+
+use System\Controller\BaseAuthController;
+
+class NoticeController extends BaseAuthController {
+
+}
+
+?>
