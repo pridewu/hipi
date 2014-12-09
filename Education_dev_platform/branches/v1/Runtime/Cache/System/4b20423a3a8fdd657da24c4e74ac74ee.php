@@ -1,1 +1,0 @@
-<?php if (!defined('THINK_PATH')) exit();?><script>top.location.href="/System/Public/login.html";</script>
